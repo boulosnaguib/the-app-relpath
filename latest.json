@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Bug fixes",
-  "pub_date": "2026-09-01T00:00:00Z",
+  "version": "0.1.1",
+  "notes": "UI changes ",
+  "pub_date": "2026-09-02T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/boulosnaguib/the-app-relpath/releases/download/clinver/Smart.Clinic_0.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT1hNb1VmYjVVYW5XMkpQdHgyUlVseW1jbldpQkZNWkk2U052SGdENXgvTlNpblk5cUg1UTQ0ODZyalVqdFRLSDVxMVBGUitLaStzQnkwM09IZDVIUjZCdkIyVE1DbEFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzYxNTM5CWZpbGU6U21hcnQgQ2xpbmljXzAuMS4wX3g2NC1zZXR1cC5leGUKTmhyYWt0dWU3Q3Z0Nmh1cm1LK1VPN2dhMVVIWFk0R1M4VGFjYzdJQ1g2aFVGMVlMQStQZU4waFFUUWlsbGtWT0I0eWdoWDN2Z041MndxZWhZTnJqQ2c9PQo="
+      "url": "https://github.com/boulosnaguib/the-app-relpath/releases/download/clinver0.1.1/Smart.Clinic_0.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT1hNb1VmYjVVYXE2aVdMODNFRUdPcUxWQXIyYTRwK1FteE1FRTdFMmwzTXllME9SaThFaktqdVV3MkVWVEZkNDVnRjRKVmJEdjJWS2ZIZlNzZ1FEemlFRlJvcHZVT0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4MzczMTY2CWZpbGU6U21hcnQgQ2xpbmljXzAuMS4xX3g2NC1zZXR1cC5leGUKaUZQWmpneVIybmYvcE1Mc2NYamRORzNHMGp5TFBIT1R5bk93K25OZ2lwRUNxS3RzcHRHNVg3VkNBNEpDSTkvSm45dFB1b01vNG02cUFJaTVoRmNBQ0E9PQo="
     }
   }
 }
