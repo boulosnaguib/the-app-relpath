@@ -4,7 +4,7 @@
   "pub_date": "2026-09-02T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/boulosnaguib/the-app-relpath/releases/download/clinver0.1.1/Smart.Clinic_0.1.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT1hNb1VmYjVVYXR5RXB5ZktZNHpqd3d3S1RIYitsVXdVblBtTU1FODQ0Q0NkbHhEZzE2M09XNjdlYklZN1FSc25idllmNWtoVmliU1RxOWh2TzJWNGZnN2szSmI0UmdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NTIyMDU0CWZpbGU6U21hcnQgQ2xpbmljXzAuMS4xX3g2NC1zZXR1cC5leGUKQ0cwTVRTUEh1Qzcyd01hYVM4S2JRQ1RwSGFabVRyemFodjIxWCtQV1hiZzV5QzcwZzJBdVFYejdmVmpPZE9TdEZTMnd3clhNK2JuRzVnd3ZOM0JNQlE9PQo="
+      "url": "https://github.com/boulosnaguib/the-app-relpath/releases/download/v0.1.1/Smart.Clinic_0.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT1hNb1VmYjVVYXRDdm1qRTNaSDBRcml6YUhpV21CMDNFSXZZc0ZYcGVrdU9KVFJRWnF4bjgvRE04OXl3OGhjMm5ad3hMRUt0M1BKblBIWjR5SDBZV00vMUcwSXp4U0F3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODc0ODE0CWZpbGU6U21hcnQgQ2xpbmljXzAuMS4xX3g2NC1zZXR1cC5leGUKa3BncmRFL1NtY1hXdWlDaDl2WXVYK2NpTnRId0pjRGg1K0pmeExkVUplUzhaaXYzVzVKNmJzNHh6ekdpZkM2TWlhZjdZbEpxUitJNXdubXE4ZGhUQ0E9PQo="
   }
 }
