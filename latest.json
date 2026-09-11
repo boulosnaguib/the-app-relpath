@@ -1,10 +1,10 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "notes": "A Lot of Changes",
   "pub_date": "2026-09-09T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/boulosnaguib/the-app-relpath/releases/download/v0.1.4/Smart.Clinic_0.1.4_x64-setup.exe",
+      "url": "https://github.com/boulosnaguib/the-app-relpath/releases/download/v0.1.5/Smart.Clinic_0.1.5_x64-setup.exe",
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRT1hNb1VmYjVVYXR5a2hmMThIMjBNY2lXN2N0d3hNelRCUytvRUM5VHR0RktKajBCVDNZZjNiK1dhYVdVeW5BYzd6c0RaeVp4MEwyVW0zZ3FjSkFJdVh4aWRQZFEvZGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg5MTY1Njg0CWZpbGU6U21hcnQgQ2xpbmljXzAuMS41X3g2NC1zZXR1cC5leGUKQmFUWi9zR2puSlFUUDUrdzVHeWhrTzFvU0J5OStnUHZlSHk5aXllN05TRG04WlBkWW1HaXpreXpCUzlESjRBOEpBM0lNY3l0RnVMZkhIQkJsSTEzQlE9PQo="
   }
 }
